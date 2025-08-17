@@ -23,7 +23,7 @@ GlucoTrack helps individuals monitor and analyze their blood glucose levels thro
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/glucotrack.git
+git clone https://github.com/jaaferbenahmed/glucotrack.git
 cd glucotrack
 
 # Install dependencies
@@ -125,5 +125,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 **Built with ❤️ as part of CS50's Introduction to Programming with Python**
+**📜 [View Certificate](https://certificates.cs50.io/e5b9c705-4b4a-41ea-88ea-6bc22fbb6957.pdf?size=letter)**
 
 *"Good code isn't just about syntax - it's about solving real problems for real people."*
